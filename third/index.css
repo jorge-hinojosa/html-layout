@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+}
+
+.nav {
+    width: 100vw;
+    height: 10vh;
+    background: lightgray;
+    padding-top: 20px;
+}
+
+#blue-square {
+    margin-left: 25px;
+    width: 75px;
+    height: 75px;
+    background: rgb(70, 111, 187);
+}
+
+.content {
+    width: 100vw;
+    height: 26vh;
+    padding-top: 50px;
+}
+
+#text {
+    margin: 0 auto;
+    width: 90vw;
+    text-align: left;
+    font-size: 15pt;
+    
+}
+
+.blue-block {
+    width: 100vw;
+    height: 14.28vh;
+    background: rgb(70, 111, 187);
+}
+
+.green-block {
+    width: 100vw;
+    height: 14.28vh;
+    background: rgb(131, 255, 185);
+}
+
+.lime-block {
+    width: 100vw;
+    height: 14.28vh;
+    background: rgb(189, 236, 127);
+}
+
+.yellow-block {
+    width: 100vw;
+    height: 14.28vh;
+    background: rgb(252, 252, 107);
+}
+
